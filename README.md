@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm GOKUL</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p>- 🌱 I’m currently learning **AngularJS, VueJS**</p>
+<p>- 🌱 I’m currently learning ** VueJS**</p>
 <p>- 💬 Ask me about **React** -</p>
 
 <p>📫 How to reach me **gokulmylsami@gmail.com**</p>
