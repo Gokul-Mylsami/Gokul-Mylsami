@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=gokul-mylsami&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🌱 I’m currently learning AWS<br><br>💬 Ask me about React <br><br>📫 How to reach me gokulmylsami@gmail.com
+🌱 I’m currently learning Kubernetes<br><br>💬 Ask me about React <br><br>📫 How to reach me gokulmylsami@gmail.com
 
 
 ## 🌐 Socials:
