@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **React,Vue,Node,Docker**
+- 💬 Ask me about **React,Docker**
 
 - 📫 How to reach me **gokulmylsami@gmail.com**
 
