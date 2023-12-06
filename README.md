@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
-<h3 align="center">Full stack developer skilled in MERN/MEVN stacks, Docker, and AWS, passionate about creating clean and scalable solutions.</h3>
+<h3 align="center">Devops Engineer 😃</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-mylsami&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-mylsami" /> </p>
 
